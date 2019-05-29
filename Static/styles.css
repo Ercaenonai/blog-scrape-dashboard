@@ -1,0 +1,13 @@
+#styles for blog analytics
+body {
+  margin-top: 50px;
+}
+
+.lrg-heading {
+  font-size: 48px;
+}
+
+.description {
+  font-size: 24px;
+  color: gray;
+}
